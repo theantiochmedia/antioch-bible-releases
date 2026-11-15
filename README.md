@@ -4,7 +4,7 @@ God's Word in many languages, side by side, and it all works offline. A free Bib
 
 ## Download for Android
 
-Get the latest APK from **[Releases](../../releases/latest)**: download `antioch-bible-v1.0.0.apk` on your phone, open it, and allow installing from your browser if Android asks.
+**[Download the latest APK](https://github.com/theantiochmedia/antioch-bible-releases/releases/latest/download/antioch-bible.apk)** on your phone, open it, and allow installing from your browser if Android asks. To update, install the new APK over the old one: your notes and progress are kept. All versions are under [Releases](../../releases).
 
 ## iPhone and computers
 
@@ -12,6 +12,7 @@ Use the web app at **https://bible.theantiochmedia.com**. On iPhone, open it in 
 
 ## What's inside
 
+- The app in English, 简体中文, Bahasa Indonesia, 日本語 and 한국어
 - Many translations side by side, offline
 - Greek and Hebrew interlinear with lexicons and concordance (optional download)
 - Reading plans, including First Steps for new believers
