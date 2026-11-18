@@ -13,9 +13,11 @@ Use the web app at **https://bible.theantiochmedia.com**. On iPhone, open it in 
 ## What's inside
 
 - The app in English, 简体中文, Bahasa Indonesia, 日本語 and 한국어
-- Many translations side by side, offline
+- Many translations side by side; download once and read offline
+- Matthew Henry's commentary, Concise and Complete (optional download)
 - Greek and Hebrew interlinear with lexicons and concordance (optional download)
-- Reading plans, including First Steps for new believers
-- Highlights, notes, bookmarks and memorization
+- Reading plans, including First Steps for new believers, and Fast and pray
+- Highlights, notes, bookmarks and memorization (also in pinyin and romaji)
+- A Home screen you arrange yourself
 
 This repository holds the app's releases. Scripture texts are used under the licences listed in the app (Profile → About).
