@@ -16,6 +16,8 @@ Use the web app at **https://bible.theantiochmedia.com**. On iPhone, open it in 
 - Many translations side by side; download once and read offline
 - Matthew Henry's commentary, Concise and Complete (optional download)
 - Greek and Hebrew interlinear with lexicons and concordance (optional download)
+- Introductions to all 66 books at three levels: Quick, Comprehensive and Advanced
+- Ten interactive Bible maps with guided tours and a quiz
 - Reading plans, including First Steps for new believers, and Fast and pray
 - Highlights, notes, bookmarks and memorization (also in pinyin and romaji)
 - A Home screen you arrange yourself
